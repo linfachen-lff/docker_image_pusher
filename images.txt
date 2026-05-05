@@ -11,4 +11,5 @@
 #ghcr.io/linuxserver/duplicati
 #1panel-php:7.3.33
 #nginx:1.22
-mysql:8.0.29
+#mysql:8.0.29
+quay.io/ascend/vllm-ascend:v0.13.0rc3-a3
